@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.98 29.98" style="">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c70049;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.4px;
+      }
+    </style>
+  </defs>
+  <g id="Orion_delete-circle" transform="translate(11.415 11.417)">
+    <path id="layer2" class="cls-1 ANtmkFUX_0" transform="translate(-10.425 3.573) rotate(-45)" d="M0,9.899A9.899,9.899 0,1,1 19.798,9.899A9.899,9.899 0,1,1 0,9.899"></path>
+    <path id="layer1" class="cls-1 ANtmkFUX_1" d="M28.259,21,21,28.26m7.26,0L21,21" transform="translate(-21.055 -21.056)"></path>
+  </g>
+<style data-made-with="vivus-instant">.ANtmkFUX_0{stroke-dasharray:63 65;stroke-dashoffset:64;animation:ANtmkFUX_draw 1500ms ease-in-out 0ms forwards;}.ANtmkFUX_1{stroke-dasharray:21 23;stroke-dashoffset:22;animation:ANtmkFUX_draw 1500ms ease-in-out 0ms forwards;}@keyframes ANtmkFUX_draw{100%{stroke-dashoffset:0;}}@keyframes ANtmkFUX_fade{0%{stroke-opacity:1;}92.98245614035088%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

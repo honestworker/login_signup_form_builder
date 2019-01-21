@@ -1,0 +1,2736 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DIGITS: Wordpress Mobile Number Signup and Login\n"
+"POT-Creation-Date: 2018-12-29 00:32+0530\n"
+"PO-Revision-Date: 2017-07-20 17:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: digit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: digit.php:75
+msgid "+ Add User"
+msgstr ""
+
+#: digit.php:79
+msgid "Add new user"
+msgstr ""
+
+#: digit.php:192
+msgid "Create New Customer"
+msgstr ""
+
+#: digit.php:201 digit.php:215
+msgid "Create Customer"
+msgstr ""
+
+#: digit.php:206 includes/register.php:105
+#: includes/woocommerce-registration.php:989
+msgid "First Name"
+msgstr ""
+
+#: digit.php:209 includes/register.php:106
+msgid "Last Name"
+msgstr ""
+
+#: digit.php:212 digit.php:885 digit.php:1000 digit.php:1079 digit.php:1187
+#: digit.php:3836 digit.php:4513 digit.php:5223 digit.php:5343 digit.php:5430
+#: digit.php:5539 includes/woocommerce-registration.php:255
+#: includes/woocommerce-registration.php:256
+#: includes/woocommerce-registration.php:1067
+msgid "Email/Mobile Number"
+msgstr ""
+
+#: digit.php:214 digit.php:5621
+msgid "Cancel"
+msgstr ""
+
+#: digit.php:231
+msgid "Enter all fields!"
+msgstr ""
+
+#: digit.php:232
+msgid "Invalid Email or mobile number!"
+msgstr ""
+
+#: digit.php:233 digit.php:311 digit.php:3910 digit.php:3967 digit.php:4434
+#: digit.php:4440 digit.php:4668 digit.php:4742 digit.php:5727
+#: includes/login.php:1020 includes/register.php:213
+#: includes/woocommerce-registration.php:169
+#: includes/woocommerce-registration.php:173
+#: includes/woocommerce-registration.php:187
+#: includes/woocommerce-registration.php:206
+#: includes/woocommerce-registration.php:208
+#: includes/woocommerce-registration.php:1212
+msgid "Error"
+msgstr ""
+
+#: digit.php:234
+msgid "Email/Mobile number has already registered"
+msgstr ""
+
+#: digit.php:235
+msgid "User registered successfully"
+msgstr ""
+
+#: digit.php:283 digit.php:3853 digit.php:3939 digit.php:4398 digit.php:4422
+#: digit.php:5700
+msgid "Passwords do not match!"
+msgstr ""
+
+#: digit.php:284 digit.php:3854 digit.php:3940 digit.php:5701
+msgid "Please fill all the required details."
+msgstr ""
+
+#: digit.php:285 digit.php:3855 digit.php:3941 digit.php:5702
+msgid "Please accept terms & conditions."
+msgstr ""
+
+#: digit.php:287 digit.php:3857 digit.php:3943 digit.php:5704
+msgid "Please enter a stronger password."
+msgstr ""
+
+#: digit.php:302 digit.php:3913 digit.php:3958 digit.php:5718
+msgid "Registration is disabled"
+msgstr ""
+
+#: digit.php:303 digit.php:3914 digit.php:3959 digit.php:5719
+msgid "Forgot Password is disabled"
+msgstr ""
+
+#: digit.php:304 digit.php:3879 digit.php:3960 digit.php:5720
+msgid "Invalid login credentials!"
+msgstr ""
+
+#: digit.php:305 digit.php:3878 digit.php:3961 digit.php:4679 digit.php:5721
+#: includes/register.php:545
+msgid "Invalid API credentials!"
+msgstr ""
+
+#: digit.php:306 digit.php:3877 digit.php:3962 digit.php:5722
+msgid "Please signup before logging in."
+msgstr ""
+
+#: digit.php:307 digit.php:3963 digit.php:5723
+msgid "Please try again!"
+msgstr ""
+
+#: digit.php:308 digit.php:3886 digit.php:3964 digit.php:5724
+#: includes/woocommerce-registration.php:365
+#: includes/woocommerce-registration.php:371
+msgid "Invalid Country Code!"
+msgstr ""
+
+#: digit.php:309 digit.php:3887 digit.php:3965 digit.php:5725
+msgid "Mobile number not found!"
+msgstr ""
+
+#: digit.php:310 digit.php:3888 digit.php:3966 digit.php:4718 digit.php:4720
+#: digit.php:5726 includes/woocommerce-registration.php:206
+#: includes/woocommerce-registration.php:208
+#: includes/woocommerce-registration.php:389
+#: includes/woocommerce-registration.php:661
+msgid "Mobile Number already in use!"
+msgstr ""
+
+#: digit.php:312 digit.php:3968 digit.php:5728
+msgid "This features only works with mobile number"
+msgstr ""
+
+#: digit.php:313 digit.php:3890 digit.php:3969 digit.php:5729
+#: includes/woocommerce-registration.php:381
+#: includes/woocommerce-registration.php:680
+msgid "Invalid OTP!"
+msgstr ""
+
+#: digit.php:314 digit.php:3603 digit.php:3892 digit.php:3970 digit.php:5730
+#: digit.php:7238
+msgid "Error! Please try again later"
+msgstr ""
+
+#: digit.php:315 digit.php:3971 digit.php:5731
+msgid "Password does not match the confirm password!"
+msgstr ""
+
+#: digit.php:316 digit.php:3882 digit.php:3972 digit.php:5732
+msgid "Invalid details!"
+msgstr ""
+
+#: digit.php:317 digit.php:3885 digit.php:3973 digit.php:4598 digit.php:5733
+#: includes/register.php:450
+msgid "Invalid Email!"
+msgstr ""
+
+#: digit.php:318 digit.php:3884 digit.php:3974 digit.php:5734
+#: includes/woocommerce-registration.php:169
+#: includes/woocommerce-registration.php:173
+#: includes/woocommerce-registration.php:368
+msgid "Invalid Mobile Number!"
+msgstr ""
+
+#: digit.php:319 digit.php:3975 digit.php:5735
+msgid "Either enter your mobile number or click on sign up with password"
+msgstr ""
+
+#: digit.php:320 digit.php:868 digit.php:956 digit.php:3976 digit.php:4934
+#: digit.php:5294 digit.php:5736
+msgid "Log In"
+msgstr ""
+
+#: digit.php:321 digit.php:980 digit.php:3977 digit.php:5320 digit.php:5737
+msgid "Sign Up"
+msgstr ""
+
+#: digit.php:322 digit.php:3978 digit.php:5738
+msgid "Forgot Password"
+msgstr ""
+
+#: digit.php:323 digit.php:889 digit.php:1004 digit.php:1086 digit.php:3371
+#: digit.php:3908 digit.php:3979 digit.php:4517 digit.php:5227 digit.php:5347
+#: digit.php:5437 digit.php:5739 digit.php:7522 digit.php:7558
+#: includes/woocommerce-registration.php:1070
+msgid "Email"
+msgstr ""
+
+#: digit.php:324 digit.php:887 digit.php:1002 digit.php:1072 digit.php:1445
+#: digit.php:1447 digit.php:3370 digit.php:3889 digit.php:3980 digit.php:4515
+#: digit.php:5225 digit.php:5345 digit.php:5423 digit.php:5740 digit.php:7523
+#: digit.php:7559 includes/bp.php:45 includes/bp.php:108 includes/um.php:108
+#: includes/woocommerce-registration.php:37
+#: includes/woocommerce-registration.php:73
+#: includes/woocommerce-registration.php:252
+#: includes/woocommerce-registration.php:253
+#: includes/woocommerce-registration.php:1127
+#: includes/woocommerce-registration.php:1264
+#: includes/woocommerce-registration.php:1342
+msgid "Mobile Number"
+msgstr ""
+
+#: digit.php:325 digit.php:3613 digit.php:3899 digit.php:3981 digit.php:5741
+#: digit.php:7248
+msgid "Oh Snap!"
+msgstr ""
+
+#: digit.php:326 digit.php:3902 digit.php:3982 digit.php:5742
+msgid "Submit"
+msgstr ""
+
+#: digit.php:327 digit.php:3912 digit.php:3983 digit.php:5743
+msgid "Submit OTP"
+msgstr ""
+
+#: digit.php:494
+msgid "Settings"
+msgstr ""
+
+#: digit.php:830 digit.php:5649
+msgid "Please check the Pop-up."
+msgstr ""
+
+#: digit.php:891 digit.php:1007 digit.php:1046 digit.php:1880 digit.php:4520
+#: digit.php:5229 digit.php:5350 digit.php:5397 digit.php:7557
+msgid "Username"
+msgstr ""
+
+#: digit.php:925 digit.php:1131 digit.php:1209 digit.php:1427 digit.php:1459
+#: digit.php:3300 digit.php:3894 digit.php:5264 digit.php:5482 digit.php:5577
+#: digit.php:7524 includes/bp.php:63 includes/bp.php:124 includes/um.php:135
+#: includes/um.php:169 includes/woocommerce-registration.php:97
+#: includes/woocommerce-registration.php:287
+#: includes/woocommerce-registration.php:291
+#: includes/woocommerce-registration.php:898
+#: includes/woocommerce-registration.php:1035
+#: includes/woocommerce-registration.php:1100
+#: includes/woocommerce-registration.php:1147
+msgid "OTP"
+msgstr ""
+
+#: digit.php:935 digit.php:1117 digit.php:1223 digit.php:1865 digit.php:1881
+#: digit.php:3897 digit.php:5275 digit.php:5468 digit.php:5591 digit.php:7525
+#: digit.php:7560 includes/woocommerce-registration.php:267
+#: includes/woocommerce-registration.php:279
+#: includes/woocommerce-registration.php:1190
+msgid "Password"
+msgstr ""
+
+#: digit.php:962 digit.php:5300
+msgid "Forgot your password?"
+msgstr ""
+
+#: digit.php:972 digit.php:5312 includes/um.php:157
+#: includes/woocommerce-registration.php:946
+msgid "Login With OTP"
+msgstr ""
+
+#: digit.php:973 digit.php:1157 digit.php:1236 digit.php:3895 digit.php:5313
+#: digit.php:5511 digit.php:5603 includes/bp.php:135 includes/um.php:142
+#: includes/um.php:161 includes/woocommerce-registration.php:954
+#: includes/woocommerce-registration.php:1104
+#: includes/woocommerce-registration.php:1159
+#: includes/woocommerce-registration.php:1175
+msgid "Resend OTP"
+msgstr ""
+
+#: digit.php:979 digit.php:5319
+msgid "Don't have an account?"
+msgstr ""
+
+#: digit.php:1033 digit.php:5384 digit.php:7556
+msgid "Name"
+msgstr ""
+
+#: digit.php:1061 digit.php:1083 digit.php:3615 digit.php:3909 digit.php:5412
+#: digit.php:5434 digit.php:7250 digit.php:7670 digit.php:7878
+#: includes/woocommerce-registration.php:1054
+msgid "Optional"
+msgstr ""
+
+#: digit.php:1149 digit.php:5503
+msgid "Signup"
+msgstr ""
+
+#: digit.php:1151 digit.php:5505
+msgid "Signup With OTP"
+msgstr ""
+
+#: digit.php:1163 digit.php:5517
+msgid "Signup With Password"
+msgstr ""
+
+#: digit.php:1169 digit.php:1238 digit.php:5524 digit.php:5607
+msgid "Back to login"
+msgstr ""
+
+#: digit.php:1229 digit.php:3898 digit.php:5597
+#: includes/woocommerce-registration.php:1194
+msgid "Confirm Password"
+msgstr ""
+
+#: digit.php:1235 digit.php:5602
+msgid "Reset Password"
+msgstr ""
+
+#: digit.php:1256
+msgid "Powered by <span>Digits</span>"
+msgstr ""
+
+#: digit.php:1342 digit.php:7417 digit.php:7429
+msgid "Login"
+msgstr ""
+
+#: digit.php:1553
+msgid ""
+"<div><p><b>Fatal Error</b>: Digits requires curl to work correctly. </p></"
+"div>"
+msgstr ""
+
+#: digit.php:1650
+msgid "KNOWLEDGEBASE"
+msgstr ""
+
+#: digit.php:1653
+msgid "Addons"
+msgstr ""
+
+#: digit.php:1654
+msgid "CHANGELOG"
+msgstr ""
+
+#: digit.php:1658 digit.php:7412 digit.php:7437
+msgid "Register"
+msgstr ""
+
+#: digit.php:1671
+msgid "Gateway"
+msgstr ""
+
+#: digit.php:1675
+msgid "General"
+msgstr ""
+
+#: digit.php:1679
+msgid "Form"
+msgstr ""
+
+#: digit.php:1683
+msgid "Style"
+msgstr ""
+
+#: digit.php:1687
+msgid "Translations"
+msgstr ""
+
+#: digit.php:1691 digit.php:7186 digit.php:7274
+msgid "Shortcodes"
+msgstr ""
+
+#: digit.php:1742
+msgid "Save Changes"
+msgstr ""
+
+#: digit.php:1751
+msgid "Select a logo"
+msgstr ""
+
+#: digit.php:1752
+msgid "Use this logo"
+msgstr ""
+
+#: digit.php:1753 digit.php:8074
+msgid "Change Image"
+msgstr ""
+
+#: digit.php:1754 digit.php:8075
+msgid "Select Image"
+msgstr ""
+
+#: digit.php:1755 digit.php:2432 digit.php:2475 digit.php:2579 digit.php:2855
+#: digit.php:2896 digit.php:8076
+msgid "Remove Image"
+msgstr ""
+
+#: digit.php:1860 digit.php:1861 digit.php:1863 digit.php:1866 digit.php:1870
+#: digit.php:2088 digit.php:2092
+msgid "API Key"
+msgstr ""
+
+#: digit.php:1860 digit.php:1861 digit.php:1862 digit.php:1866 digit.php:1868
+#: digit.php:1882
+msgid "From"
+msgstr ""
+
+#: digit.php:1861
+msgid "API Username"
+msgstr ""
+
+#: digit.php:1862
+msgid "ClockWork API"
+msgstr ""
+
+#: digit.php:1863 digit.php:1878 digit.php:2038 digit.php:2042 digit.php:2075
+#: digit.php:2079
+msgid "Sender ID"
+msgstr ""
+
+#: digit.php:1864
+msgid "Access Key"
+msgstr ""
+
+#: digit.php:1864
+msgid "Originator"
+msgstr ""
+
+#: digit.php:1865
+msgid "Mobile"
+msgstr ""
+
+#: digit.php:1865 digit.php:1867
+msgid "Sender"
+msgstr ""
+
+#: digit.php:1866
+msgid "API Secret"
+msgstr ""
+
+#: digit.php:1867
+msgid "Auth ID"
+msgstr ""
+
+#: digit.php:1867 digit.php:2028 digit.php:2032
+msgid "Auth Token"
+msgstr ""
+
+#: digit.php:1868
+msgid "Token"
+msgstr ""
+
+#: digit.php:1871
+msgid "Auth Domain"
+msgstr ""
+
+#: digit.php:1872
+msgid "Database URL"
+msgstr ""
+
+#: digit.php:1873
+msgid "Project ID"
+msgstr ""
+
+#: digit.php:1874
+msgid "Storage Bucket"
+msgstr ""
+
+#: digit.php:1875
+msgid "Messaging Sender ID"
+msgstr ""
+
+#: digit.php:1877
+msgid "AppSid"
+msgstr ""
+
+#: digit.php:1948
+msgid "SMS Gateway"
+msgstr ""
+
+#: digit.php:1953 digit.php:1957
+msgid "Free"
+msgstr ""
+
+#: digit.php:1986
+#, php-format
+msgid "You should have paid <span>%s</span> plan to use this."
+msgstr ""
+
+#: digit.php:1995 digit.php:1998
+msgid "App ID"
+msgstr ""
+
+#: digit.php:2005
+msgid "AccountKit App Secret"
+msgstr ""
+
+#: digit.php:2009
+msgid "App Secret"
+msgstr ""
+
+#: digit.php:2017 digit.php:2021
+msgid "Account SID"
+msgstr ""
+
+#: digit.php:2049 digit.php:2053
+msgid "Authentication Key"
+msgstr ""
+
+#: digit.php:2059
+msgid "ROUTE"
+msgstr ""
+
+#: digit.php:2062
+msgid "SendOTP"
+msgstr ""
+
+#: digit.php:2063
+msgid "Transactional"
+msgstr ""
+
+#: digit.php:2093
+msgid ""
+"Please keep this message template similar to the one on Yunpian, just "
+"replace #code# with %OTP% otherwise messages will not be sent."
+msgstr ""
+
+#: digit.php:2142
+msgid "TEST GATEWAY SETTINGS"
+msgstr ""
+
+#: digit.php:2145
+msgid "Your Mobile Number"
+msgstr ""
+
+#: digit.php:2147
+msgid "Test"
+msgstr ""
+
+#: digit.php:2153
+msgid "Response"
+msgstr ""
+
+#: digit.php:2258
+msgid "PRESET DESIGN"
+msgstr ""
+
+#: digit.php:2263
+msgid "PRESET LIBRARY"
+msgstr ""
+
+#: digit.php:2264
+msgid "CLOSE"
+msgstr ""
+
+#: digit.php:2269 digit.php:2278
+msgid "CUSTOM"
+msgstr ""
+
+#: digit.php:2325
+msgid "Preset"
+msgstr ""
+
+#: digit.php:2328
+msgid "Select Preset"
+msgstr ""
+
+#: digit.php:2356
+msgid "FORM TYPE"
+msgstr ""
+
+#: digit.php:2359 digit.php:2417
+msgid "Page"
+msgstr ""
+
+#: digit.php:2387 digit.php:2831
+msgid "Modal"
+msgstr ""
+
+#: digit.php:2422
+msgid "Logo"
+msgstr ""
+
+#: digit.php:2429 digit.php:2472 digit.php:2576 digit.php:2852 digit.php:2893
+msgid "Select image"
+msgstr ""
+
+#: digit.php:2447 digit.php:2488 digit.php:2592 digit.php:2869 digit.php:2909
+#: digit.php:3431 digit.php:3439 digit.php:3449 digit.php:3458
+msgid "URL"
+msgstr ""
+
+#: digit.php:2456
+msgid "Login Page Left Background Color"
+msgstr ""
+
+#: digit.php:2465
+msgid "Login Page Left Image"
+msgstr ""
+
+#: digit.php:2499 digit.php:2920
+msgid "Login Page Left Background Size"
+msgstr ""
+
+#: digit.php:2517 digit.php:2938
+msgid "Login Page Left Background Position"
+msgstr ""
+
+#: digit.php:2537
+msgid "Login Page Footer"
+msgstr ""
+
+#: digit.php:2549
+msgid "Login Page Footer Text Color"
+msgstr ""
+
+#: digit.php:2559
+msgid "Login Page Background Color"
+msgstr ""
+
+#: digit.php:2569
+msgid "Login Page Background Image"
+msgstr ""
+
+#: digit.php:2603
+msgid "Login Box Background Color"
+msgstr ""
+
+#: digit.php:2612
+msgid "Login Box Shadow"
+msgstr ""
+
+#: digit.php:2619 digit.php:2973
+msgid "X"
+msgstr ""
+
+#: digit.php:2623 digit.php:2977
+msgid "Y"
+msgstr ""
+
+#: digit.php:2627 digit.php:2981
+msgid "Blur"
+msgstr ""
+
+#: digit.php:2631 digit.php:2987
+msgid "Spread"
+msgstr ""
+
+#: digit.php:2642
+msgid "Login Box Shadow Color"
+msgstr ""
+
+#: digit.php:2649
+msgid "Login Box Radius"
+msgstr ""
+
+#: digit.php:2662 digit.php:3018
+msgid "Text and Button Color"
+msgstr ""
+
+#: digit.php:2662 digit.php:3018
+msgid "Text Color"
+msgstr ""
+
+#: digit.php:2671 digit.php:3027
+msgid "Button Font Color"
+msgstr ""
+
+#: digit.php:2678
+msgid "Back/Cancel Button Color"
+msgstr ""
+
+#: digit.php:2687 digit.php:3036
+msgid "Input Background Color"
+msgstr ""
+
+#: digit.php:2694 digit.php:3043
+msgid "Input Border Color"
+msgstr ""
+
+#: digit.php:2701 digit.php:3050
+msgid "Input Text Color"
+msgstr ""
+
+#: digit.php:2708 digit.php:3057
+msgid "Button Border Color"
+msgstr ""
+
+#: digit.php:2716 digit.php:3065
+msgid "Button Text Color"
+msgstr ""
+
+#: digit.php:2724 digit.php:3073
+msgid "Signup Button Color"
+msgstr ""
+
+#: digit.php:2731 digit.php:3080
+msgid "Signup Button Border Color"
+msgstr ""
+
+#: digit.php:2739 digit.php:3088
+msgid "Signup Button Text Color"
+msgstr ""
+
+#: digit.php:2834
+msgid "Modal Overlay Color"
+msgstr ""
+
+#: digit.php:2845
+msgid "Login Modal Background Image"
+msgstr ""
+
+#: digit.php:2879
+msgid "Login Box Left Background Color"
+msgstr ""
+
+#: digit.php:2886
+msgid "Login Box Left Image"
+msgstr ""
+
+#: digit.php:2957
+msgid "Login Modal Background Color"
+msgstr ""
+
+#: digit.php:2966
+msgid "Login Modal Shadow"
+msgstr ""
+
+#: digit.php:2996
+msgid "Login Modal Shadow Color"
+msgstr ""
+
+#: digit.php:3004
+msgid "Login Modal Radius"
+msgstr ""
+
+#: digit.php:3099
+msgid "Advanced Options"
+msgstr ""
+
+#: digit.php:3103
+msgid "Custom CSS"
+msgstr ""
+
+#: digit.php:3115 digit.php:7394 digit.php:7998 digit.php:8020 digit.php:8052
+#: digit.php:8117 digit.php:8209
+msgid "Continue"
+msgstr ""
+
+#: digit.php:3118 digit.php:7396 digit.php:7860 digit.php:8000 digit.php:8022
+#: digit.php:8054 digit.php:8119
+msgid "Back"
+msgstr ""
+
+#: digit.php:3156
+msgid "Basic"
+msgstr ""
+
+#: digit.php:3160
+msgid "Use Mobile Number as Username"
+msgstr ""
+
+#: digit.php:3163 digit.php:3173 digit.php:3186 digit.php:3355 digit.php:3387
+#: digit.php:3405 digit.php:7592 digit.php:7603 digit.php:7629 digit.php:7777
+msgid "Yes"
+msgstr ""
+
+#: digit.php:3164 digit.php:3174 digit.php:3187 digit.php:3357 digit.php:3389
+#: digit.php:3407 digit.php:3614 digit.php:7249 digit.php:7593 digit.php:7604
+#: digit.php:7630 digit.php:7671 digit.php:7778
+msgid "No"
+msgstr ""
+
+#: digit.php:3170
+msgid "Enable Forgot Password"
+msgstr ""
+
+#: digit.php:3177
+msgid "This function only works on Digits Login/Signup Modal and Page"
+msgstr ""
+
+#: digit.php:3183
+msgid "Enable Strong Password for Registration"
+msgstr ""
+
+#: digit.php:3195
+msgid "Default User Role"
+msgstr ""
+
+#: digit.php:3212
+msgid "The default role which will be assigned to new user created."
+msgstr ""
+
+#: digit.php:3216
+msgid "OTP SMS"
+msgstr ""
+
+#: digit.php:3219
+msgid "Default Country Code"
+msgstr ""
+
+#: digit.php:3257
+msgid "Country Codes Whitelist"
+msgstr ""
+
+#: digit.php:3278
+msgid ""
+"Sign In/Sign Up will be allowed for phone numbers with these country codes. "
+"To allow Sign In/Sign Up for all country codes, leave this blank."
+msgstr ""
+
+#: digit.php:3294
+msgid "Message Template"
+msgstr ""
+
+#: digit.php:3300
+msgid "Site Name"
+msgstr ""
+
+#: digit.php:3306
+msgid "OTP size"
+msgstr ""
+
+#: digit.php:3323
+msgid "OTP Resend Time"
+msgstr ""
+
+#: digit.php:3328
+msgid "0"
+msgstr ""
+
+#: digit.php:3329
+msgid "Seconds"
+msgstr ""
+
+#: digit.php:3347
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: digit.php:3351
+msgid "Create Customer Button"
+msgstr ""
+
+#: digit.php:3360
+msgid "Add customer on Add Order Page on dashboard using Modal"
+msgstr ""
+
+#: digit.php:3365
+msgid "Required field for billing info"
+msgstr ""
+
+#: digit.php:3369
+msgid "Mobile Number and Email"
+msgstr ""
+
+#: digit.php:3383
+msgid "Override Billing and Shipping Mobile Fields"
+msgstr ""
+
+#: digit.php:3392
+msgid "This will add country code to WooCommerce mobile fields"
+msgstr ""
+
+#: digit.php:3401
+msgid "Mobile verification during checkout"
+msgstr ""
+
+#: digit.php:3422
+msgid "Redirection"
+msgstr ""
+
+#: digit.php:3426
+msgid "Login Redirect"
+msgstr ""
+
+#: digit.php:3432 digit.php:3440 digit.php:3450 digit.php:3459
+msgid "Leave blank for auto redirect"
+msgstr ""
+
+#: digit.php:3436
+msgid "Register Redirect"
+msgstr ""
+
+#: digit.php:3444
+msgid "Forgot Password Redirect"
+msgstr ""
+
+#: digit.php:3454
+msgid "Logout Redirect"
+msgstr ""
+
+#: digit.php:3460
+msgid "Note:"
+msgstr ""
+
+#: digit.php:3460
+msgid "Custom Redirect only works on Digits Login/Signup Modal and Page"
+msgstr ""
+
+#: digit.php:3597 digit.php:7232
+msgid ""
+"Please activate your plugin to change the look and feel of your Login page "
+"and Popup"
+msgstr ""
+
+#: digit.php:3598 digit.php:7233
+msgid "Oops! You cannot enable email without password for login"
+msgstr ""
+
+#: digit.php:3599 digit.php:7234
+msgid "Both Password and OTP cannot be disabled"
+msgstr ""
+
+#: digit.php:3600 digit.php:7235 digit.php:7717
+msgid "Select a type"
+msgstr ""
+
+#: digit.php:3601 digit.php:7236
+msgid "Invalid msg91 sender id!"
+msgstr ""
+
+#: digit.php:3602 digit.php:7237
+msgid "Invalid Purchase Code"
+msgstr ""
+
+#: digit.php:3604 digit.php:7239
+msgid "Please complete your Settings"
+msgstr ""
+
+#: digit.php:3605 digit.php:7240
+msgid "Please complete your API Settings"
+msgstr ""
+
+#: digit.php:3606 digit.php:7241
+msgid "Please complete your Custom Field Settings"
+msgstr ""
+
+#: digit.php:3607 digit.php:7242
+msgid "Copied to clipboard"
+msgstr ""
+
+#: digit.php:3610 digit.php:7245
+msgid "Field Already exist"
+msgstr ""
+
+#: digit.php:3611 digit.php:7246
+msgid "Duplicate Value"
+msgstr ""
+
+#: digit.php:3616 digit.php:7251 digit.php:7669 digit.php:7880
+msgid "Required"
+msgstr ""
+
+#: digit.php:3617 digit.php:7252
+msgid "Please enter a valid mobile number"
+msgstr ""
+
+#: digit.php:3881
+msgid "Register With Password"
+msgstr ""
+
+#: digit.php:3883
+msgid "Invalid Password"
+msgstr ""
+
+#: digit.php:3891 includes/register.php:717
+msgid "Please try again"
+msgstr ""
+
+#: digit.php:3893
+msgid "Username/Mobile Number"
+msgstr ""
+
+#: digit.php:3900
+msgid "Please enter your Mobile Number/Email"
+msgstr ""
+
+#: digit.php:3901
+msgid "Either enter your Mobile Number or use Password!"
+msgstr ""
+
+#: digit.php:3904
+msgid "SIGN UP WITH PASSWORD"
+msgstr ""
+
+#: digit.php:3905
+msgid "SIGN UP WITH OTP"
+msgstr ""
+
+#: digit.php:3906
+msgid "SIGN UP"
+msgstr ""
+
+#: digit.php:3907 includes/um.php:156 includes/woocommerce-registration.php:938
+msgid "OR"
+msgstr ""
+
+#: digit.php:4157 includes/register.php:313
+msgid "Invalid Credentials!"
+msgstr ""
+
+#: digit.php:4169 includes/register.php:262
+msgid "Please enter a valid captcha"
+msgstr ""
+
+#: digit.php:4286
+msgid "The email could not be sent."
+msgstr ""
+
+#: digit.php:4286
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: digit.php:4291
+msgid ""
+"Your password reset link appears to be expired or invalid. Please request a "
+"new link."
+msgstr ""
+
+#: digit.php:4347
+msgid ""
+"A password reset email has been sent to the email address, but may take "
+"several minutes to show up in your inbox. Please wait at least 10 minutes "
+"before attempting another reset."
+msgstr ""
+
+#: digit.php:4349
+msgid "Invalid e-mail!"
+msgstr ""
+
+#: digit.php:4400
+msgid "Please use a stronger password!"
+msgstr ""
+
+#: digit.php:4476
+msgid "Password changed successfully."
+msgstr ""
+
+#: digit.php:4480
+msgid "Error! User not found."
+msgstr ""
+
+#: digit.php:4543 includes/register.php:409
+msgid "Invalid Name!"
+msgstr ""
+
+#: digit.php:4547 digit.php:4768
+msgid "Invalid Username!"
+msgstr ""
+
+#: digit.php:4554 digit.php:4557
+msgid "Invalid Password!"
+msgstr ""
+
+#: digit.php:4568
+msgid "Please enter as valid Mobile Number!"
+msgstr ""
+
+#: digit.php:4573 digit.php:4590 includes/register.php:422
+#: includes/register.php:426 includes/register.php:442
+#: includes/woocommerce-registration.php:346
+msgid "Please enter a valid Mobile Number!"
+msgstr ""
+
+#: digit.php:4580 digit.php:4584 includes/register.php:432
+#: includes/register.php:436 includes/woocommerce-registration.php:349
+msgid "Please enter a valid Email!"
+msgstr ""
+
+#: digit.php:4594 includes/register.php:446
+msgid "Invalid Email or Mobile Number"
+msgstr ""
+
+#: digit.php:4601 includes/register.php:453
+#: includes/woocommerce-registration.php:694
+msgid "Email already in use!"
+msgstr ""
+
+#: digit.php:4623 digit.php:4725 includes/register.php:592
+msgid "Error while generating username!"
+msgstr ""
+
+#: digit.php:4625 includes/register.php:491
+msgid "Mobile/Email is already in use!"
+msgstr ""
+
+#: digit.php:4650 includes/register.php:472
+#: includes/woocommerce-registration.php:465
+msgid "Username is already in use!"
+msgstr ""
+
+#: digit.php:4709 includes/register.php:584 includes/register.php:597
+#: includes/register.php:599 includes/um.php:29 includes/um.php:31
+msgid "Mobile number already in use!"
+msgstr ""
+
+#: digit.php:4722 includes/login.php:1010
+msgid "Invalid Mobile Number"
+msgstr ""
+
+#: digit.php:4753 includes/register.php:632
+msgid "Email is already in use!"
+msgstr ""
+
+#: digit.php:5186
+msgid "BACK"
+msgstr ""
+
+#: digit.php:5966
+msgid "Please fill all the required details!"
+msgstr ""
+
+#: digit.php:5974
+msgid "Please enter a valid Captcha!"
+msgstr ""
+
+#: digit.php:5980
+msgid "Please accept terms and condition!"
+msgstr ""
+
+#: digit.php:5993 digit.php:6002 digit.php:6006
+msgid "Please select a valid option!"
+msgstr ""
+
+#: digit.php:6171 digit.php:6201
+msgid "Nothing"
+msgstr ""
+
+#: digit.php:6332
+msgid "Afghanistan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Albania"
+msgstr ""
+
+#: digit.php:6332
+msgid "Algeria"
+msgstr ""
+
+#: digit.php:6332
+msgid "American Samoa"
+msgstr ""
+
+#: digit.php:6332
+msgid "Andorra"
+msgstr ""
+
+#: digit.php:6332
+msgid "Angola"
+msgstr ""
+
+#: digit.php:6332
+msgid "Anguilla"
+msgstr ""
+
+#: digit.php:6332
+msgid "Antigua"
+msgstr ""
+
+#: digit.php:6332
+msgid "Argentina"
+msgstr ""
+
+#: digit.php:6332
+msgid "Armenia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Aruba"
+msgstr ""
+
+#: digit.php:6332
+msgid "Australia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Austria"
+msgstr ""
+
+#: digit.php:6332
+msgid "Azerbaijan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bahrain"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bangladesh"
+msgstr ""
+
+#: digit.php:6332
+msgid "Barbados"
+msgstr ""
+
+#: digit.php:6332
+msgid "Belarus"
+msgstr ""
+
+#: digit.php:6332
+msgid "Belgium"
+msgstr ""
+
+#: digit.php:6332
+msgid "Belize"
+msgstr ""
+
+#: digit.php:6332
+msgid "Benin"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bermuda"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bhutan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bolivia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: digit.php:6332
+msgid "Botswana"
+msgstr ""
+
+#: digit.php:6332
+msgid "Brazil"
+msgstr ""
+
+#: digit.php:6332
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: digit.php:6332
+msgid "British Virgin Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Brunei"
+msgstr ""
+
+#: digit.php:6332
+msgid "Bulgaria"
+msgstr ""
+
+#: digit.php:6332
+msgid "Burkina Faso"
+msgstr ""
+
+#: digit.php:6332
+msgid "Burundi"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cambodia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cameroon"
+msgstr ""
+
+#: digit.php:6332
+msgid "Canada"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cape Verde"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cayman Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Central African Republic"
+msgstr ""
+
+#: digit.php:6332
+msgid "Chad"
+msgstr ""
+
+#: digit.php:6332
+msgid "Chile"
+msgstr ""
+
+#: digit.php:6332
+msgid "China"
+msgstr ""
+
+#: digit.php:6332
+msgid "Colombia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Comoros"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cook Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Costa Rica"
+msgstr ""
+
+#: digit.php:6332
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: digit.php:6332
+msgid "Croatia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cuba"
+msgstr ""
+
+#: digit.php:6332
+msgid "Curaçao"
+msgstr ""
+
+#: digit.php:6332
+msgid "Cyprus"
+msgstr ""
+
+#: digit.php:6332
+msgid "Czech Republic"
+msgstr ""
+
+#: digit.php:6332
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: digit.php:6332
+msgid "Denmark"
+msgstr ""
+
+#: digit.php:6332
+msgid "Djibouti"
+msgstr ""
+
+#: digit.php:6332
+msgid "Dominica"
+msgstr ""
+
+#: digit.php:6332
+msgid "Dominican Republic"
+msgstr ""
+
+#: digit.php:6332
+msgid "Ecuador"
+msgstr ""
+
+#: digit.php:6332
+msgid "Egypt"
+msgstr ""
+
+#: digit.php:6332
+msgid "El Salvador"
+msgstr ""
+
+#: digit.php:6332
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: digit.php:6332
+msgid "Eritrea"
+msgstr ""
+
+#: digit.php:6332
+msgid "Estonia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Ethiopia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Falkland Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Faroe Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Federated States of Micronesia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Fiji"
+msgstr ""
+
+#: digit.php:6332
+msgid "Finland"
+msgstr ""
+
+#: digit.php:6332
+msgid "France"
+msgstr ""
+
+#: digit.php:6332
+msgid "French Guiana"
+msgstr ""
+
+#: digit.php:6332
+msgid "French Polynesia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Gabon"
+msgstr ""
+
+#: digit.php:6332
+msgid "Georgia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Germany"
+msgstr ""
+
+#: digit.php:6332
+msgid "Ghana"
+msgstr ""
+
+#: digit.php:6332
+msgid "Gibraltar"
+msgstr ""
+
+#: digit.php:6332
+msgid "Greece"
+msgstr ""
+
+#: digit.php:6332
+msgid "Greenland"
+msgstr ""
+
+#: digit.php:6332
+msgid "Grenada"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guadeloupe"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guam"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guatemala"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guernsey"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guinea"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: digit.php:6332
+msgid "Guyana"
+msgstr ""
+
+#: digit.php:6332
+msgid "Haiti"
+msgstr ""
+
+#: digit.php:6332
+msgid "Honduras"
+msgstr ""
+
+#: digit.php:6332
+msgid "Hong Kong"
+msgstr ""
+
+#: digit.php:6332
+msgid "Hungary"
+msgstr ""
+
+#: digit.php:6332
+msgid "Iceland"
+msgstr ""
+
+#: digit.php:6332
+msgid "India"
+msgstr ""
+
+#: digit.php:6332
+msgid "Indonesia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Iran"
+msgstr ""
+
+#: digit.php:6332
+msgid "Iraq"
+msgstr ""
+
+#: digit.php:6332
+msgid "Ireland"
+msgstr ""
+
+#: digit.php:6332
+msgid "Isle Of Man"
+msgstr ""
+
+#: digit.php:6332
+msgid "Israel"
+msgstr ""
+
+#: digit.php:6332
+msgid "Italy"
+msgstr ""
+
+#: digit.php:6332
+msgid "Jamaica"
+msgstr ""
+
+#: digit.php:6332
+msgid "Japan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Jersey"
+msgstr ""
+
+#: digit.php:6332
+msgid "Jordan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Kazakhstan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Kenya"
+msgstr ""
+
+#: digit.php:6332
+msgid "Kiribati"
+msgstr ""
+
+#: digit.php:6332
+msgid "Kuwait"
+msgstr ""
+
+#: digit.php:6332
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Laos"
+msgstr ""
+
+#: digit.php:6332
+msgid "Latvia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Lebanon"
+msgstr ""
+
+#: digit.php:6332
+msgid "Lesotho"
+msgstr ""
+
+#: digit.php:6332
+msgid "Liberia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Libya"
+msgstr ""
+
+#: digit.php:6332
+msgid "Liechtenstein"
+msgstr ""
+
+#: digit.php:6332
+msgid "Lithuania"
+msgstr ""
+
+#: digit.php:6332
+msgid "Luxembourg"
+msgstr ""
+
+#: digit.php:6332
+msgid "Macau"
+msgstr ""
+
+#: digit.php:6332
+msgid "Macedonia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Madagascar"
+msgstr ""
+
+#: digit.php:6332
+msgid "Malawi"
+msgstr ""
+
+#: digit.php:6332
+msgid "Malaysia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Maldives"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mali"
+msgstr ""
+
+#: digit.php:6332
+msgid "Malta"
+msgstr ""
+
+#: digit.php:6332
+msgid "Marshall Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Martinique"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mauritania"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mauritius"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mayotte"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mexico"
+msgstr ""
+
+#: digit.php:6332
+msgid "Moldova"
+msgstr ""
+
+#: digit.php:6332
+msgid "Monaco"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mongolia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Montenegro"
+msgstr ""
+
+#: digit.php:6332
+msgid "Montserrat"
+msgstr ""
+
+#: digit.php:6332
+msgid "Morocco"
+msgstr ""
+
+#: digit.php:6332
+msgid "Mozambique"
+msgstr ""
+
+#: digit.php:6332
+msgid "Myanmar"
+msgstr ""
+
+#: digit.php:6332
+msgid "Namibia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Nauru"
+msgstr ""
+
+#: digit.php:6332
+msgid "Nepal"
+msgstr ""
+
+#: digit.php:6332
+msgid "Netherlands"
+msgstr ""
+
+#: digit.php:6332
+msgid "New Caledonia"
+msgstr ""
+
+#: digit.php:6332
+msgid "New Zealand"
+msgstr ""
+
+#: digit.php:6332
+msgid "Nicaragua"
+msgstr ""
+
+#: digit.php:6332
+msgid "Niger"
+msgstr ""
+
+#: digit.php:6332
+msgid "Nigeria"
+msgstr ""
+
+#: digit.php:6332
+msgid "Niue"
+msgstr ""
+
+#: digit.php:6332
+msgid "Norfolk Island"
+msgstr ""
+
+#: digit.php:6332
+msgid "North Korea"
+msgstr ""
+
+#: digit.php:6332
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Norway"
+msgstr ""
+
+#: digit.php:6332
+msgid "Oman"
+msgstr ""
+
+#: digit.php:6332
+msgid "Pakistan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Palau"
+msgstr ""
+
+#: digit.php:6332
+msgid "Palestine"
+msgstr ""
+
+#: digit.php:6332
+msgid "Panama"
+msgstr ""
+
+#: digit.php:6332
+msgid "Papua New Guinea"
+msgstr ""
+
+#: digit.php:6332
+msgid "Paraguay"
+msgstr ""
+
+#: digit.php:6332
+msgid "Peru"
+msgstr ""
+
+#: digit.php:6332
+msgid "Philippines"
+msgstr ""
+
+#: digit.php:6332
+msgid "Poland"
+msgstr ""
+
+#: digit.php:6332
+msgid "Portugal"
+msgstr ""
+
+#: digit.php:6332
+msgid "Puerto Rico"
+msgstr ""
+
+#: digit.php:6332
+msgid "Qatar"
+msgstr ""
+
+#: digit.php:6332
+msgid "Republic of the Congo"
+msgstr ""
+
+#: digit.php:6332
+msgid "Romania"
+msgstr ""
+
+#: digit.php:6332
+msgid "Runion"
+msgstr ""
+
+#: digit.php:6332
+msgid "Russia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Rwanda"
+msgstr ""
+
+#: digit.php:6332
+msgid "Saint Helena"
+msgstr ""
+
+#: digit.php:6332
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: digit.php:6332
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: digit.php:6332
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: digit.php:6332
+msgid "Samoa"
+msgstr ""
+
+#: digit.php:6332
+msgid "San Marino"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: digit.php:6332
+msgid "Saudi Arabia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Senegal"
+msgstr ""
+
+#: digit.php:6332
+msgid "Serbia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Seychelles"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sierra Leone"
+msgstr ""
+
+#: digit.php:6332
+msgid "Singapore"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sint Maarten"
+msgstr ""
+
+#: digit.php:6332
+msgid "Slovakia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Slovenia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Solomon Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Somalia"
+msgstr ""
+
+#: digit.php:6332
+msgid "South Africa"
+msgstr ""
+
+#: digit.php:6332
+msgid "South Korea"
+msgstr ""
+
+#: digit.php:6332
+msgid "South Sudan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Spain"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sri Lanka"
+msgstr ""
+
+#: digit.php:6332
+msgid "St. Lucia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sudan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Suriname"
+msgstr ""
+
+#: digit.php:6332
+msgid "Swaziland"
+msgstr ""
+
+#: digit.php:6332
+msgid "Sweden"
+msgstr ""
+
+#: digit.php:6332
+msgid "Switzerland"
+msgstr ""
+
+#: digit.php:6332
+msgid "Syria"
+msgstr ""
+
+#: digit.php:6332
+msgid "Taiwan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tajikistan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tanzania"
+msgstr ""
+
+#: digit.php:6332
+msgid "Thailand"
+msgstr ""
+
+#: digit.php:6332
+msgid "The Bahamas"
+msgstr ""
+
+#: digit.php:6332
+msgid "The Gambia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Timor-Leste"
+msgstr ""
+
+#: digit.php:6332
+msgid "Togo"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tokelau"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tonga"
+msgstr ""
+
+#: digit.php:6332
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tunisia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Turkey"
+msgstr ""
+
+#: digit.php:6332
+msgid "Turkmenistan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Tuvalu"
+msgstr ""
+
+#: digit.php:6332
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: digit.php:6332
+msgid "Uganda"
+msgstr ""
+
+#: digit.php:6332
+msgid "Ukraine"
+msgstr ""
+
+#: digit.php:6332
+msgid "United Arab Emirates"
+msgstr ""
+
+#: digit.php:6332
+msgid "United Kingdom"
+msgstr ""
+
+#: digit.php:6332
+msgid "United States"
+msgstr ""
+
+#: digit.php:6332
+msgid "Uruguay"
+msgstr ""
+
+#: digit.php:6332
+msgid "Uzbekistan"
+msgstr ""
+
+#: digit.php:6332
+msgid "Vanuatu"
+msgstr ""
+
+#: digit.php:6332
+msgid "Venezuela"
+msgstr ""
+
+#: digit.php:6332
+msgid "Vietnam"
+msgstr ""
+
+#: digit.php:6332
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: digit.php:6332
+msgid "Western Sahara"
+msgstr ""
+
+#: digit.php:6332
+msgid "Yemen"
+msgstr ""
+
+#: digit.php:6332
+msgid "Zambia"
+msgstr ""
+
+#: digit.php:6332
+msgid "Zimbabwe"
+msgstr ""
+
+#: digit.php:7138
+msgid "Setup"
+msgstr ""
+
+#: digit.php:7170
+msgid "Welcome"
+msgstr ""
+
+#: digit.php:7174
+msgid "Activation"
+msgstr ""
+
+#: digit.php:7178
+msgid "Docs"
+msgstr ""
+
+#: digit.php:7182 digit.php:8107
+msgid "API Settings"
+msgstr ""
+
+#: digit.php:7190
+msgid "Ready"
+msgstr ""
+
+#: digit.php:7279 includes/wcs.php:314 includes/wcs.php:315
+msgid "Login/Signup Page"
+msgstr ""
+
+#: digit.php:7283 digit.php:7293 digit.php:7305 digit.php:7317 digit.php:7329
+#: digit.php:7342 digit.php:7355 digit.php:7368 digit.php:7380
+msgid "Copy"
+msgstr ""
+
+#: digit.php:7289
+msgid "Login/Signup Modal"
+msgstr ""
+
+#: digit.php:7301 includes/wcs.php:316
+msgid "Login Page"
+msgstr ""
+
+#: digit.php:7312 includes/wcs.php:317
+msgid "Login Modal"
+msgstr ""
+
+#: digit.php:7324
+msgid "Sign Up Page"
+msgstr ""
+
+#: digit.php:7337
+msgid "Sign Up Modal"
+msgstr ""
+
+#: digit.php:7350 includes/wcs.php:320
+msgid "Forgot Password Page"
+msgstr ""
+
+#: digit.php:7363 includes/wcs.php:321
+msgid "Forgot Password Modal"
+msgstr ""
+
+#: digit.php:7375
+msgid "Logout Shortcode"
+msgstr ""
+
+#: digit.php:7408
+msgid "Menu Items"
+msgstr ""
+
+#: digit.php:7411 digit.php:7421
+msgid "Login / Register"
+msgstr ""
+
+#: digit.php:7413
+msgid "Forgot your Password?"
+msgstr ""
+
+#: digit.php:7414 digit.php:7454
+msgid "My Account"
+msgstr ""
+
+#: digit.php:7415 digit.php:7462 includes/wcs.php:322
+msgid "Logout"
+msgstr ""
+
+#: digit.php:7446
+msgid "Forgot"
+msgstr ""
+
+#: digit.php:7474
+msgid ""
+"Transation of whole plugin can be done through POT file present in the "
+"plugin languages folder. You'll need to upload .MO and .PO files to the "
+"languages folder of this plugin. The easiest way to translate is to use Loco "
+"Translate WordPress plugin."
+msgstr ""
+
+#: digit.php:7527
+msgid "Captcha"
+msgstr ""
+
+#: digit.php:7589
+msgid "Enable Registration"
+msgstr ""
+
+#: digit.php:7600
+msgid "Show asterisk (*) on required fields"
+msgstr ""
+
+#: digit.php:7614
+msgid "LOGIN FIELDS"
+msgstr ""
+
+#: digit.php:7639
+msgid "REGISTRATION FIELDS"
+msgstr ""
+
+#: digit.php:7706
+msgid "ADD FIELD"
+msgstr ""
+
+#: digit.php:7738
+msgid "WordPress / WooCommerce Fields"
+msgstr ""
+
+#: digit.php:7757
+msgid "Label"
+msgstr ""
+
+#: digit.php:7764
+msgid ""
+"Enclose the word(s) between [t] and [/t] for terms and condition and [p] and "
+"[/t] for privacy policy."
+msgstr ""
+
+#: digit.php:7766
+msgid ""
+"For example \"Agree [t]Terms and Conditions[/t] & [p]Privacy Policy[/t]\""
+msgstr ""
+
+#: digit.php:7773
+msgid "Required Field"
+msgstr ""
+
+#: digit.php:7785
+msgid "Meta Key"
+msgstr ""
+
+#: digit.php:7793
+msgid "Custom Class"
+msgstr ""
+
+#: digit.php:7803
+msgid "Options"
+msgstr ""
+
+#: digit.php:7809
+msgid "Add a Option"
+msgstr ""
+
+#: digit.php:7816
+msgid "Terms & Conditions Link"
+msgstr ""
+
+#: digit.php:7825
+msgid "Privacy Link"
+msgstr ""
+
+#: digit.php:7835
+msgid "User Roles"
+msgstr ""
+
+#: digit.php:7859
+msgid "Add"
+msgstr ""
+
+#: digit.php:7891
+msgid "Activate Digits"
+msgstr ""
+
+#: digit.php:7910
+msgid "Is this domain your"
+msgstr ""
+
+#: digit.php:7912
+msgid "Live Server"
+msgstr ""
+
+#: digit.php:7913
+msgid "Testing Server"
+msgstr ""
+
+#: digit.php:7917
+msgid "Purchase code"
+msgstr ""
+
+#: digit.php:7922
+msgid "Purchase Code"
+msgstr ""
+
+#: digit.php:7924
+msgid "UNREGISTER"
+msgstr ""
+
+#: digit.php:7938
+msgid ""
+"Please activate your plugin by entering purchase code to remove \"Powered By"
+msgstr ""
+
+#: digit.php:7939
+msgid "and receive updates"
+msgstr ""
+
+#: digit.php:7948
+msgid ""
+"If you want to use same purchase code on your live server then please click "
+"the below button to request for it. Our team will take less than 12 hours to "
+"respond to your request, and will notify via email."
+msgstr ""
+
+#: digit.php:7951
+msgid ""
+"If you want to use same purchase code on your testing server then please "
+"click the below button to request for it. Our team will take less than 12 "
+"hours to respond to your request, and will notify via email."
+msgstr ""
+
+#: digit.php:7953
+msgid "Request Live Server Addition"
+msgstr ""
+
+#: digit.php:7954
+msgid "Request Testing Server Addition"
+msgstr ""
+
+#: digit.php:7970
+msgid "Activate"
+msgstr ""
+
+#: digit.php:7972
+msgid "Skip"
+msgstr ""
+
+#: digit.php:7985
+msgid "Have a look at our documentation"
+msgstr ""
+
+#: digit.php:7987
+msgid ""
+"Do you feel like you need some help with the setup, go through our detailed "
+"documentation it will guide you through."
+msgstr ""
+
+#: digit.php:7991
+msgid "Open Documentation"
+msgstr ""
+
+#: digit.php:7994
+msgid ""
+"Having the documentation opened in other tab can help you if you get stuck "
+"somewhere in the middle."
+msgstr ""
+
+#: digit.php:7995
+msgid ""
+"Don't worry, we'll not tell anyone that you went through our documentation "
+"to setup this simple thing."
+msgstr ""
+
+#: digit.php:8012
+msgid "Digits is ready!"
+msgstr ""
+
+#: digit.php:8013
+msgid ""
+"Congratulations! Digits has been activated and your website is ready. Login "
+"to your WordPress\n"
+"        dashboard to make changes and modify any of the content to suit your "
+"needs."
+msgstr ""
+
+#: digit.php:8043
+msgid "Login Page Configuration"
+msgstr ""
+
+#: digit.php:8072
+msgid "Select a Image"
+msgstr ""
+
+#: digit.php:8073
+msgid "Use this Image"
+msgstr ""
+
+#: digit.php:8136
+msgid "Coming Soon"
+msgstr ""
+
+#: digit.php:8170
+msgid "Installed"
+msgstr ""
+
+#: digit.php:8198
+msgid "Welcome to the configuration wizard for DIGITS!"
+msgstr ""
+
+#: digit.php:8200
+msgid ""
+"Thank you for choosing Digits. This quick setup wizard will help you to "
+"configure this plugin in a few simple steps."
+msgstr ""
+
+#: digit.php:8202
+msgid "It should only take 4-5 minutes."
+msgstr ""
+
+#: digit.php:8204
+msgid ""
+"Busy right now! If you don't want to go through the wizard, you can skip and "
+"return to the WordPress dashboard and come back anytime."
+msgstr ""
+
+#: digit.php:8223
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:224
+msgid "Clockwork SMS"
+msgstr ""
+
+#: gateways/clockwork/wordpress/class-clockwork-plugin.php:225
+msgid "Clockwork Options"
+msgstr ""
+
+#: includes/bp.php:45
+msgid "(required)"
+msgstr ""
+
+#: includes/ihu.php:21 includes/wcs.php:385
+msgid "Please enter a valid Mobile Number"
+msgstr ""
+
+#: includes/ihu.php:26 includes/wcs.php:391
+msgid "Mobile Number verification failed"
+msgstr ""
+
+#: includes/ihu.php:56 includes/wcs.php:424
+msgid "Please enter a valid OTP"
+msgstr ""
+
+#: includes/register.php:111
+msgid "is a required field."
+msgstr ""
+
+#: includes/register.php:146
+msgid "This Mobile number is already registered."
+msgstr ""
+
+#: includes/register.php:171
+msgid "Please provide a valid email address/Mobile number."
+msgstr ""
+
+#: includes/register.php:177 includes/woocommerce-registration.php:392
+#: includes/woocommerce-registration.php:398
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/register.php:179
+msgid "This email address is already registered."
+msgstr ""
+
+#: includes/register.php:188
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: includes/register.php:191
+msgid "Please enter your current password."
+msgstr ""
+
+#: includes/register.php:194
+msgid "Please re-enter your password."
+msgstr ""
+
+#: includes/register.php:197
+msgid "New passwords do not match."
+msgstr ""
+
+#: includes/register.php:200
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: includes/register.php:221
+msgid "Account details changed successfully."
+msgstr ""
+
+#: includes/register.php:626
+msgid "Invalid password"
+msgstr ""
+
+#: includes/register.php:655
+msgid "Error:"
+msgstr ""
+
+#: includes/register.php:770
+msgid "Enter a username or email address."
+msgstr ""
+
+#: includes/register.php:795 includes/register.php:801
+msgid "Invalid username or email."
+msgstr ""
+
+#: includes/register.php:815
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/um.php:36
+msgid "Please enter Mobile Number."
+msgstr ""
+
+#: includes/um.php:44 includes/um.php:55 includes/um.php:65 includes/um.php:73
+msgid "Unable to verify Mobile number"
+msgstr ""
+
+#: includes/wcs.php:34
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr ""
+
+#: includes/wcs.php:83
+msgid "Verification Code"
+msgstr ""
+
+#: includes/wcs.php:84
+#, php-format
+msgid "Please type the verification code sent to %s."
+msgstr ""
+
+#: includes/wcs.php:95
+msgid "SUBMIT"
+msgstr ""
+
+#: includes/wcs.php:259
+msgid ""
+"<b>Digits:</b> Please activate digits with purchase code for it to function "
+"properly. In case you are using same purchase code on your testing/"
+"production server as well then make sure to request addon domain from <a "
+"href=\""
+msgstr ""
+
+#: includes/wcs.php:262
+msgid "<b>Digits:</b> Please activate digits with purchase code within "
+msgstr ""
+
+#: includes/wcs.php:287
+msgid "Digits Menu Items"
+msgstr ""
+
+#: includes/wcs.php:318
+msgid "Signup Page"
+msgstr ""
+
+#: includes/wcs.php:319
+msgid "Signup Modal"
+msgstr ""
+
+#: includes/wcs.php:349
+msgid "Select all"
+msgstr ""
+
+#: includes/wcs.php:352
+msgid "Add to menu"
+msgstr ""
+
+#: includes/wcs.php:389
+msgid "Mobile Number is already in use"
+msgstr ""
+
+#: includes/woocommerce-registration.php:69
+msgid "Extra Profile Information"
+msgstr ""
+
+#: includes/woocommerce-registration.php:81
+msgid "Please enter your Mobile Number."
+msgstr ""
+
+#: includes/woocommerce-registration.php:187
+msgid "Please enter your email or Mobile Number!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:258
+msgid "Billing Email"
+msgstr ""
+
+#: includes/woocommerce-registration.php:259
+msgid "Billing Mobile Number"
+msgstr ""
+
+#: includes/woocommerce-registration.php:361
+msgid "Please verify your Mobile Number!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:384
+msgid "Unable to verify OTP!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:403
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+#: includes/woocommerce-registration.php:423
+msgid "Invalid Mobile Number or email"
+msgstr ""
+
+#: includes/woocommerce-registration.php:506
+#: includes/woocommerce-registration.php:514
+msgid "Error verifying Mobile Number"
+msgstr ""
+
+#: includes/woocommerce-registration.php:545
+msgid "Mobile number verification failed!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:569
+msgid "ERROR"
+msgstr ""
+
+#: includes/woocommerce-registration.php:569
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+
+#: includes/woocommerce-registration.php:655
+msgid "Invalid country code!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:665
+msgid "Please enter Mobile Number!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:668
+msgid "Please enter country code!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:677
+msgid "Please enter OTP!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:690
+msgid "Invalid  Email!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1052
+msgid "*"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1172
+msgid "Register with OTP"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1212
+msgid "Mobile Number is required!"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1228
+msgid ""
+"Lost your password? Please enter your mobile number to receive OTP or email "
+"address to get a link to create a new password."
+msgstr ""
+
+#: includes/woocommerce-registration.php:1236
+msgid "Digits"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1292
+msgid "User"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1307
+msgid "Digits Data Eraser"
+msgstr ""
+
+#: includes/woocommerce-registration.php:1342
+#: includes/woocommerce-registration.php:1355
+msgid "Removed"
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:358
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:405
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:409
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:557
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:412
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:555
+#, php-format
+msgctxt "the plugin title"
+msgid ""
+"A new version of the %s plugin is available. Please enter purchase code <a "
+"href=\"%s\">here</a> to enable automatic updates."
+msgstr ""
+
+#: update/Puc/v4p1/Plugin/UpdateChecker.php:416
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:567
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: update/Puc/v4p1/Vcs/PluginUpdateChecker.php:85
+#: update/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr ""
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: update/Puc/v4p4/Plugin/UpdateChecker.php:561
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DIGITS: Wordpress Mobile Number Signup and Login"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://digits.unitedover.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Expand your website dimensions by providing signup and login using mobile "
+"number. User can register himself/herself with just a mobile number."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UnitedOver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.unitedover.com/"
+msgstr ""

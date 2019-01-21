@@ -1,0 +1,80 @@
+.woocommerce-Button{
+    z-index: 1;
+}
+.dig_wc_loginViaContainer{text-align: center;}
+.dig_wc_mobileLogin{width: 100%;}
+.dig_wc_countrycode[type="text"]{text-align:center;background: transparent !important;padding-right: 4px;outline: none;min-width: 20px;width:auto !important;z-index: 2;box-shadow: none !important;}
+
+.digcon{
+    direction: ltr;
+}
+.countrycode{margin-top: 0;}
+.noselect{  -webkit-touch-callout: none;  -webkit-user-select: none;  -khtml-user-select: none;  -moz-user-select: none;  -ms-user-select: none;  user-select: none;}
+.dig_wc_countrycodecontainer{display:none;position: absolute;top:0;z-index: 10;left:0;}
+.dig_wc_countrycodecontainer input{text-align: center;}
+.digcon{position: relative;}
+.separator{font-size: 20px;position: relative;top: -4px;}
+.loginerrordg{
+    color: #b70000;
+}
+#dig_billing_otp_field label span{
+    display: none;
+}
+#_billing_phone{direction: ltr;}
+.dig_resendotp{
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    display: none;
+}
+#woocommerce-order-data .address p:nth-child(3) a,.woocommerce-customer-details--phone{
+    direction: ltr !important;
+    unicode-bidi: embed !important;
+}
+.dig_wc_logincountrycode{
+    transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    -webkit-transition: all 0.2s linear;
+}
+.register .woocommerce-Button{
+    width: 100%;
+}
+.dig_resendotp_disabled{
+    opacity: 0.6;
+    cursor: default !important;
+}
+#bp_otp_dig{
+    display: none;
+}
+.dig_billing_wc_dv{
+    text-align: center;
+}
+.dig_billing_wc_dv input[type='submit']{
+    width: 100%;
+    margin: 10px 0;
+}
+#digorimp{
+    text-align: center;
+}
+.digor{
+    text-align: center;
+}
+.login .woocommerce-LostPassword a{
+    float: right !important;
+}
+.login .woocommerce-Button{
+    width: 100%;
+}
+
+.msggreen{
+    color : #00840f;
+}
+.dig_wc_log_msg{
+    text-align: initial;
+
+}
+#dig_reg_bp_pass,#dig_bp_reg_otp{display: none;}
+.register input[type="submit"]{width:100%;}
+.dig_wc_mailsecond{display: none;}
+.secmailormob{width:100% !important;}

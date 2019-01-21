@@ -1,0 +1,59 @@
+*{margin:0;}
+body{
+    overflow-x:hidden;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+html,body{
+    min-height: 100% !important;
+    height: 100%;
+}
+.dig_ul_divd .header{
+    display: none;
+}
+a{outline: none;}
+.header span{
+    cursor: pointer;
+    font-size:20px;
+    position: relative;
+}
+.header{
+    z-index: 99;
+}
+.header img{
+    width: 30px;
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.header a{
+    text-decoration: none;
+    color: inherit;
+    box-shadow: none !important;
+}
+.header{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    cursor: default;
+    vertical-align: baseline;
+    padding-top: 28px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.dig_ma-box::-webkit-scrollbar{
+    background: #ffffff;
+}
+.dig_ma-box::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+}
+.dig_ma-box::-webkit-scrollbar {
+    width: 8px;
+}
+.dig_ma-box::-webkit-scrollbar-track {
+    border-left: 1px rgba(0, 0, 0, 0.1) solid
+}
